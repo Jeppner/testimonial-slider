@@ -1,0 +1,13 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* .imgSlides{
+    position: absolute;
+    transition: opacity .5s ease-in;
+}
+.imgSlides{
+    opacity: 0;
+} */
